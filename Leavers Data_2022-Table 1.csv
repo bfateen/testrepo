@@ -1,0 +1,161 @@
+Type,Department,Desk,EID,Hire Date,Job Title,Level,Manager EID,Location,Total Years of Experince within EFG Hermes,Gender,Category,Exit Date,Comment
+Business Partner,Administration,Administration,1177,1-Jan-04,Administration Supervisor,Senior Specialist,190,Oman - Muscat,19 Year(s) 0 Month(s) 0 Day(s),Female,Administration,31-Dec-22,Closing of the Office
+Business Partner,Administration,Administration,2448,22-Sep-19,Office Coordinator,Junior,190,Oman - Muscat,2 Year(s) 10 Month(s) 9 Day(s),Female,Administrative Support,31-Jul-22,Closing of the Office
+Business Partner,Administration,Administration,2511,1-Mar-20,Administration Officer,Specialist,516,UAE - One Central,2 Year(s) 9 Month(s) 10 Day(s),Female,Administration,10-Dec-22,
+Business Partner,Administration,Administration,1568,9-May-10,Security Manager,Professional,1089,Egypt - Head Office,12 Year(s) 7 Month(s) 7 Day(s),Male,Administration,15-Dec-22,
+Business Line,Asset Management,Asset Management,1922,1-Aug-15,Associate Vice President,Associate VP,746,Egypt - Head Office,7 Year(s) 5 Month(s) 0 Day(s),Female,Officers,31-Dec-22,
+Business Line,Asset Management,Asset Management,2100,1-Sep-17,Vice President,Vice President,1635,Egypt - Head Office,4 Year(s) 9 Month(s) 0 Day(s),Female,Officers,31-May-22,
+Business Partner,Asset Management Operations,Asset Management Operations,2736,15-Mar-22,Analyst,Analyst,781,Egypt - Head Office,0 Year(s) 2 Month(s) 16 Day(s),Male,Officers,31-May-22,
+Business Line,Brokerage,"Brokerage, Customer Service",2646,1-Oct-21,"Associate, Customer Service",Associate,2360,Pakistan - Karachi,0 Year(s) 5 Month(s) 10 Day(s),Female,Officers,10-Mar-22,
+Business Line,Brokerage,"Brokerage, GCC High Net Worth",1225,3-Aug-08,"Vice President, MENA High Net-Worth Sales",Vice President,604,Egypt - Head Office,14 Year(s) 2 Month(s) 15 Day(s),Female,Officers,17-Oct-22,
+Business Line,Brokerage,"Brokerage, Individual Retail Sales",1968,1-May-16,"Associate VP, Individual Retail Sales",Associate VP,190,Oman - Muscat,6 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-Aug-22,Closing of the Office
+Business Line,Brokerage,"Brokerage, Individual Retail Sales",1341,24-Aug-09,Head of Individual Retail Sales,Vice President,190,Oman - Muscat,12 Year(s) 11 Month(s) 7 Day(s),Male,Officers,31-Jul-22,Closing of the Office
+Business Line,Brokerage,"Brokerage, Individual Retail Sales",2661,15-Nov-21,Senior Account Officer,Associate VP,346,Egypt - Head Office,0 Year(s) 9 Month(s) 16 Day(s),Female,Officers,31-Aug-22,
+Business Line,Brokerage,"Brokerage, Individual Retail Sales",2277,1-May-18,Senior Account Officer,Associate VP,399,Egypt - Haram,4 Year(s) 6 Month(s) 17 Day(s),Male,Officers,17-Nov-22,
+Business Line,Brokerage,"Brokerage, Individual Retail Sales",2598,6-Jun-21,Assistant Account Officer,Analyst,2290,Egypt - New Cairo,0 Year(s) 11 Month(s) 25 Day(s),Male,Officers,31-May-22,
+Business Line,Brokerage,"Brokerage, Institutional Sales",2059,15-May-17,"Vice President, Institutional Sales",Vice President,2006,USA - New York,4 Year(s) 10 Month(s) 29 Day(s),Female,Officers,13-Apr-22,
+Business Line,Brokerage,"Brokerage, Institutional Sales",2166,22-Jan-18,"Associate VP, Institutional Sales",Associate VP,2087,UK - London,4 Year(s) 10 Month(s) 16 Day(s),Female,Officers,7-Dec-22,
+Business Line,Brokerage,"Brokerage, Institutional Sales Trading",2466,13-Jan-11,"Associate Director, Sales Trading",Associate Director,2069,Nigeria - Lagos,11 Year(s) 6 Month(s) 0 Day(s),Female,Officers,12-Jul-22,
+Business Line,Brokerage,"Brokerage, Institutional Sales Trading",2072,28-May-17,"Director, Sales Trading",Director,2069,UK - London,1 Year(s) 3 Month(s) 4 Day(s),Male,Officers,4-Oct-22,
+Business Line,Brokerage,"Brokerage, Local Institutional Trading",2217,20-Oct-16,"Vice President, Local Institutional Trading",Vice President,2360,Pakistan - Lahore,5 Year(s) 9 Month(s) 29 Day(s),Male,Officers,18-Aug-22,
+Business Line,Brokerage,"Brokerage, Local Trading",1398,1-Oct-06,Broker,Associate,1387,Kuwait - Head Office,15 Year(s) 3 Month(s) 11 Day(s),Male,Officers,11-Jan-22,
+Business Line,Brokerage,"Brokerage, Retail Contact Center",1496,17-Jan-10,Call Center Supervisor,Vice President,841,UAE - DFM,9 Year(s) 1 Month(s) 8 Day(s),Female,Officers,8-Nov-22,
+Business Line,Brokerage,"Brokerage, Sales",1314,1-Jun-09,Head of Trading Desk,Associate VP,190,Oman - Muscat,13 Year(s) 7 Month(s) 0 Day(s),Male,Officers,31-Dec-22,Closing of the Office
+Business Line,Brokerage,"Brokerage, Trading",1776,1-Jul-13,"Associate VP, Trading Desk",Associate VP,190,Oman - Muscat,9 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-Dec-22,Closing of the Office
+Business Partner,Brokerage Operations,Brokerage Operations,2518,27-May-20,Settlements Officer,Associate,179,Oman - Muscat,2 Year(s) 3 Month(s) 4 Day(s),Male,Officers,31-Aug-22,Closing of the Office
+Business Partner,Brokerage Operations,Brokerage Operations,1174,1-Apr-06,Senior Settlements Officer,Associate VP,179,Oman - Muscat,16 Year(s) 9 Month(s) 0 Day(s),Male,Officers,31-Dec-22,Closing of the Office
+Business Partner,Brokerage Operations,Brokerage Operations,179,2-May-95,Senior Operations Manager,Associate Director,565,Oman - Muscat,14 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-Dec-22,Closing of the Office
+Business Partner,Compliance,Compliance,2325,1-Aug-18,Compliance Senior Director,Director,279,Egypt - Head Office,4 Year(s) 5 Month(s) 0 Day(s),Male,Officers,31-Dec-22,
+Business Partner,Compliance,Compliance,1586,8-Jun-10,Compliance Senior Manager,Associate Director,1083,Egypt - Head Office,11 Year(s) 11 Month(s) 8 Day(s),Female,Officers,15-May-22,
+Business Partner,Compliance,Compliance,2641,25-Aug-21,Senior Compliance Officer,Associate VP,2221,Pakistan - Karachi,1 Year(s) 2 Month(s) 15 Day(s),Male,Officers,9-Nov-22,
+Business Line,Consumer Finance,CF-BD-Merchant Sales,2245,1-May-20,Merchant Sales Senior Manager,Associate Director,2135,Egypt - Head Office,2 Year(s) 1 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Merchant Sales,2678,15-Dec-21,Merchant Sales Manager,Associate Director,2135,Egypt - Head Office,0 Year(s) 5 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Merchant Sales,2123,1-Nov-17,Merchant Sales Operations Senior Team Lead,Associate VP,2245,Egypt - Head Office,4 Year(s) 7 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-BD-Outsourced Employee Affairs,2594,1-Jun-21,Outsourced Employee Affairs Senior Supervisor,Associate VP,2135,Egypt - Head Office,0 Year(s) 11 Month(s) 0 Day(s),Male,Officers,30-Apr-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales,2583,15-Apr-21,Sales Head,Associate Director,2135,Egypt - Head Office,1 Year(s) 1 Month(s) 16 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales,2729,1-Mar-22,Branch Sales Manager,Associate VP,2583,Egypt - Head Office,0 Year(s) 2 Month(s) 12 Day(s),Female,Officers,12-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales Support,2611,1-Jun-21,Merchant Sales Officer,Associate,2245,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales Support,2278,15-Jun-21,Sales Agent Team Lead,Associate,2583,Egypt - Head Office,0 Year(s) 10 Month(s) 28 Day(s),Male,Officers,12-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales Support,2608,1-Jun-21,Tele-Sales Team Lead,Associate,2583,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-BD-Sales Support,2612,1-Jun-21,Direct Sales Support Senior Officer,Associate,2583,Egypt - Head Office,0 Year(s) 11 Month(s) 15 Day(s),Female,Officers,15-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Business Development,2135,19-Nov-17,Chief Commercial Officer,Director,1996,Egypt - Head Office,4 Year(s) 6 Month(s) 12 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-CC&OPS-Contact Center,2596,1-Jun-21,Contact Center Support Team Lead,Associate VP,2609,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-CC&OPS-Contact Center,2613,1-Jun-21,Online Moderation Team Lead,Associate VP,2609,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-CC&OPS-Contact Center,2616,1-Jun-21,Online Moderation Team Lead,Associate VP,2613,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-CC&OPS-Contact Center,2609,1-Jun-21,Contact Center Manager,Vice President,2752,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-CC&OPS-Operations,2743,1-Apr-22,Integrated Operations Senior Manager,N/A,2696,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-CC&OPS-Operations,2752,1-Apr-22,Customer Experience Associate Vice President,N/A,2696,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-CC&OPS-Operations,2512,15-Mar-20,Operations Officer,Associate,2743,Egypt - Head Office,2 Year(s) 2 Month(s) 16 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-CC&OPS-Operations,2593,1-Jun-21,Operations Team Lead,Associate VP,2743,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-CC&OPS-Operations,2741,1-Apr-22,Customer Experience Enablement Manager,N/A,2752,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-CC&OPS-Quality Assurance,2615,1-Jun-21,Quality Assurance Team Lead,Associate VP,2741,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2718,1-Feb-22,Chief Technology Officer,N/A,1996,Egypt - Head Office,0 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2619,15-Jun-21,Application Integration Engineer,Analyst,2577,Egypt - Head Office,0 Year(s) 11 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2693,2-Jan-22,Quality Assurance Engineer,Analyst,2718,Egypt - Head Office,0 Year(s) 4 Month(s) 29 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2697,15-Jan-22,Application Integration Engineer,Analyst,2718,Egypt - Head Office,0 Year(s) 4 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2664,15-Nov-21,Application Integration Engineer,Associate,2718,Egypt - Head Office,0 Year(s) 6 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2710,1-Feb-22,Corporate UX Lead Designer,Associate Director,2718,Egypt - Head Office,0 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2577,1-Mar-21,Application Integration Lead,Associate VP,2718,Egypt - Head Office,1 Year(s) 3 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2683,1-Jan-22,Senior Applications Support Engineer,Associate VP,2718,Egypt - Head Office,0 Year(s) 5 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2692,1-Jan-22,Mobile Team Leader,N/A,2718,Egypt - Head Office,0 Year(s) 5 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2703,1-Feb-22,Senior UI Designer,N/A,2718,Egypt - Head Office,0 Year(s) 4 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2711,1-Feb-22,Senior Business Analyst,N/A,2718,Egypt - Head Office,0 Year(s) 3 Month(s) 0 Day(s),Male,Officers,30-Apr-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2714,1-Feb-22,Lead Full Stack Developer,N/A,2718,Egypt - Head Office,0 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2721,21-Feb-22,Project Coordinator,N/A,2718,Egypt - Head Office,0 Year(s) 3 Month(s) 10 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2735,15-Mar-22,Senior Full Stack Developer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2737,15-Mar-22,Senior UX Designer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2739,1-Apr-22,Senior Support Engineer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2740,1-Apr-22,Senior Mobile Developer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2744,1-Apr-22,Senior Mobile Developer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2745,1-Apr-22,IT Operations Team lead,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2749,1-Apr-22,Software Delivery Manager,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2750,1-Apr-22,Senior Mobile Developer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2754,1-Apr-22,Senior Mobile Developer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2755,10-Apr-22,Full Stack Developer,N/A,2718,Egypt - Head Office,0 Year(s) 1 Month(s) 21 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2758,1-Apr-22,Support Engineer,N/A,2718,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2761,15-Apr-22,Senior DevOPS Engineer,N/A,2718,Egypt - Head Office,0 Year(s) 1 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2762,15-Apr-22,Senior Full Stack Developer,N/A,2718,Egypt - Head Office,0 Year(s) 1 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Information Technology,2771,1-May-22,Senior Business Analyst,N/A,2718,Egypt - Head Office,0 Year(s) 1 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Marketing & Communications,1999,1-Aug-16,Head of Marketing,Vice President,1996,Egypt - Head Office,5 Year(s) 10 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Marketing & Communications,2757,1-Apr-22,Marketing Executive,Analyst,1999,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Marketing & Communications,2494,1-Jan-20,Senior Marketing Executive,Associate,1999,Egypt - Head Office,2 Year(s) 5 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Partner,Consumer Finance,CF-Marketing & Communications,2345,6-Sep-18,Events & Brand Activation Manager,Associate VP,1999,Egypt - Head Office,3 Year(s) 8 Month(s) 25 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-PD-Product,2695,1-Jan-22,Product Executive,Analyst,2314,Egypt - Head Office,0 Year(s) 5 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-PD-Product,2704,1-Feb-22,Product Executive,Analyst,2314,Egypt - Head Office,0 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-PD-Product,2626,1-Aug-21,Product Senior Executive,Associate,2314,Egypt - Head Office,0 Year(s) 8 Month(s) 0 Day(s),Male,Officers,31-Mar-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2622,1-Jul-21,Product Development Senior Head,Associate Director,1996,Egypt - Head Office,0 Year(s) 11 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2256,1-Mar-20,Product Senior Executive,Associate VP,2314,Egypt - Head Office,2 Year(s) 3 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2314,1-Jul-18,Product Senior Manager,Associate Director,2622,Egypt - Head Office,3 Year(s) 11 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2272,18-Apr-18,Product Senior Manager,Vice President,2622,Egypt - Head Office,4 Year(s) 1 Month(s) 13 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2670,1-Dec-21,Client Services & Retention Manager,Vice President,2622,Egypt - Head Office,0 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2597,1-Jun-21,Client Services & Retention Executive,Analyst,2670,Egypt - Head Office,1 Year(s) 0 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Product Development,2592,1-Jun-21,Client Services & Retention Senior Executive,Associate,2670,Egypt - Head Office,0 Year(s) 11 Month(s) 0 Day(s),Female,Officers,30-Apr-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2453,1-Oct-19,Segments & Growth Supervisor,Associate,1996,Egypt - Head Office,2 Year(s) 8 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2658,1-Nov-21,Segments & Growth Executive,Analyst,2453,Egypt - Head Office,0 Year(s) 7 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2674,1-Dec-21,Segments & Growth Executive,Analyst,2453,Egypt - Head Office,0 Year(s) 6 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2560,1-Feb-21,Segments & Growth Senior Executive,Associate,2453,Egypt - Head Office,1 Year(s) 4 Month(s) 0 Day(s),Female,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2566,1-Mar-21,Segments & Growth Senior Executive,Associate,2453,Egypt - Head Office,1 Year(s) 3 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2582,15-Apr-21,Segments & Growth Supervisor,Associate VP,2453,Egypt - Head Office,1 Year(s) 1 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,CF-Segments & Growth,2759,10-Apr-22,Growth Senior Vice President,N/A,2696,Egypt - Head Office,0 Year(s) 1 Month(s) 21 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Consumer Finance,Consumer Finance,2696,16-Jan-22,Chief Operation Officer,Director,1996,Egypt - Head Office,0 Year(s) 4 Month(s) 15 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Line,Corporate Financing Solutions,"CFS, Business Development",2769,1-May-22,Business Development Assistant Manager,Associate VP,1994,Egypt - Head Office,0 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-Oct-22,
+Business Line,Corporate Financing Solutions,"CFS, Business Development",2543,1-Dec-20,Facility Structure Director,Director,1994,Egypt - Head Office,1 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-Mar-22,
+Business Line,Corporate Financing Solutions,"CFS, Business Development",2346,1-Sep-18,Business Development Manager,Vice President,1994,Egypt - Head Office,3 Year(s) 8 Month(s) 19 Day(s),Male,Officers,19-May-22,
+Business Line,Corporate Financing Solutions,"CFS, Business Development",2236,1-Feb-18,Business Development Executive,Associate,2397,Egypt - Head Office,4 Year(s) 5 Month(s) 0 Day(s),Male,Officers,30-Jun-22,
+Business Partner,Finance,Finance,2458,3-Dec-18,Accounting Manager,Associate VP,273,Nigeria - Lagos,4 Year(s) 0 Month(s) 28 Day(s),Male,Officers,31-Dec-22,
+Business Partner,Finance,Finance,2426,1-Jul-19,Accountant,Analyst,1063,Egypt - Head Office,2 Year(s) 7 Month(s) 17 Day(s),Male,Officers,17-Feb-22,
+Business Partner,Finance,Finance,2645,1-Oct-21,Finance Director,Director,1637,Egypt - Head Office,0 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-Mar-22,
+Business Partner,Finance,Finance,2742,1-Apr-22,Chief Financial Officer,N/A,1996,Egypt - Head Office,0 Year(s) 2 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Finance,Finance,2663,10-Nov-21,Finance Manager,Vice President,2234,Pakistan - Karachi,0 Year(s) 3 Month(s) 6 Day(s),Male,Officers,15-Feb-22,
+Business Partner,Finance,Finance,2591,1-May-21,Accountant,Analyst,2668,Egypt - Head Office,1 Year(s) 1 Month(s) 0 Day(s),Male,Officers,31-May-22,
+Business Partner,Finance,Finance,2149,15-Dec-17,Senior Accountant,Associate,2668,Egypt - Head Office,4 Year(s) 5 Month(s) 16 Day(s),Male,Officers,31-May-22,
+Business Partner,Finance,Finance,2562,1-Feb-21,Senior Accountant,Associate,2668,Egypt - Head Office,1 Year(s) 4 Month(s) 0 Day(s),Male,Officers,31-May-22,
+Business Partner,Finance,Finance,2668,1-Dec-21,Accounting Manager,Vice President,2742,Egypt - Head Office,0 Year(s) 6 Month(s) 0 Day(s),Male,Officers,31-May-22,
+Business Partner,Human Resources,Human Resources,1891,19-Apr-15,Senior Payroll Specialist,Associate VP,4,Egypt - Head Office,7 Year(s) 5 Month(s) 9 Day(s),Male,Officers,27-Sep-22,
+Business Partner,Human Resources,Human Resources,1799,1-Jan-14,Employee Benefits & Services Manager,Vice President,5,Egypt - Head Office,8 Year(s) 7 Month(s) 0 Day(s),Female,Officers,31-Jul-22,
+Business Partner,Human Resources,Human Resources,1811,23-Feb-14,"HR Manager, Jordan, Frontier Markets & Lower GCC",Vice President,892,UAE - One Central,7 Year(s) 11 Month(s) 23 Day(s),Female,Officers,15-Feb-22,
+Business Partner,Human Resources,Human Resources,2589,17-May-21,Senior HR Generalist,Associate VP,917,Kuwait - Head Office,1 Year(s) 6 Month(s) 14 Day(s),Male,Officers,30-Nov-22,
+Business Partner,Human Resources,Human Resources,2606,15-Jun-21,Senior HR Generalist,Associate VP,1785,UAE - One Central,1 Year(s) 3 Month(s) 16 Day(s),Male,Officers,30-Sep-22,
+Business Partner,Information Technology,Information Technology,798,1-Dec-06,Corporate Data Architect,Associate Director,596,Egypt - Head Office,15 Year(s) 8 Month(s) 0 Day(s),Male,Officers,31-Jul-22,
+Business Partner,Information Technology,Information Technology,1751,1-Jul-19,Corporate Information Security Manager,Associate Director,596,Egypt - Head Office,2 Year(s) 8 Month(s) 24 Day(s),Male,Officers,24-Mar-22,
+Business Partner,Information Technology,Information Technology,1744,21-Oct-12,Corporate UC & Collaboration Systems Lead,Vice President,626,Egypt - Head Office,9 Year(s) 11 Month(s) 10 Day(s),Male,Officers,30-Sep-22,
+Business Partner,Information Technology,Information Technology,2764,15-Apr-22,Machine Learning Engineer,Analyst,653,Egypt - Head Office,0 Year(s) 5 Month(s) 6 Day(s),Male,Officers,20-Sep-22,
+Business Partner,Information Technology,Information Technology,2521,1-Jun-20,Quality Assurance Lead,Associate VP,653,Egypt - Head Office,2 Year(s) 4 Month(s) 0 Day(s),Male,Officers,30-Sep-22,
+Business Partner,Information Technology,Information Technology,2552,15-Dec-20,Quality Assurance Lead,Associate VP,653,Egypt - Head Office,1 Year(s) 10 Month(s) 16 Day(s),Female,Officers,31-Oct-22,
+Business Partner,Information Technology,Information Technology,2724,1-Mar-22,Corporate Product Owner,Associate,731,Egypt - Head Office,0 Year(s) 8 Month(s) 0 Day(s),Female,Officers,31-Oct-22,
+Business Partner,Information Technology,Information Technology,2623,1-Jul-21,Corporate Networks Engineer,Associate,765,Egypt - Head Office,1 Year(s) 3 Month(s) 0 Day(s),Male,Officers,30-Sep-22,
+Business Partner,Information Technology,Information Technology,2634,15-Aug-21,Corporate Information Security Lead,Associate VP,1751,Egypt - Head Office,0 Year(s) 4 Month(s) 29 Day(s),Male,Officers,13-Jan-22,
+Business Partner,Information Technology,Information Technology,2642,15-Sep-21,Corporate DevOps Engineer,Associate,2102,Egypt - Head Office,0 Year(s) 5 Month(s) 6 Day(s),Male,Officers,20-Feb-22,
+Business Partner,Information Technology,Information Technology,2639,1-Sep-21,Corporate Data Scientist,Analyst,2487,Egypt - Head Office,0 Year(s) 10 Month(s) 0 Day(s),Male,Officers,30-Jun-22,
+Business Partner,Information Technology,Information Technology,2621,1-Jul-21,Senior Application Integration Engineer,Associate,2577,Egypt - Head Office,0 Year(s) 11 Month(s) 0 Day(s),Male,Officers,31-May-22,
+Business Partner,Information Technology,Information Technology,2569,1-Mar-21,Corporate Information Security Engineer,Associate,2779,Egypt - Head Office,1 Year(s) 4 Month(s) 0 Day(s),Male,Officers,30-Jun-22,
+Business Partner,Information Technology,Information Technology,2733,15-Mar-22,Corporate Information Security Lead,Associate VP,2779,Egypt - Head Office,0 Year(s) 6 Month(s) 27 Day(s),Male,Officers,11-Oct-22,
+Business Partner,Information Technology,Information Technology,2309,24-Jun-18,Corporate Information Security GRC Manager,Vice President,2779,Egypt - Head Office,4 Year(s) 2 Month(s) 7 Day(s),Male,Officers,31-Aug-22,
+Business Line,Investment Banking,Investment Banking,2157,1-Jan-18,Associate,Associate,692,UAE - DIFC,4 Year(s) 8 Month(s) 20 Day(s),Female,Officers,20-Sep-22,
+Business Line,Investment Banking,Investment Banking,2669,1-Dec-21,Analyst,Analyst,929,Egypt - Head Office,0 Year(s) 4 Month(s) 14 Day(s),Male,Officers,14-Apr-22,
+Business Line,Investment Banking,Investment Banking,1803,15-Jan-14,Vice President,Vice President,929,Egypt - Head Office,8 Year(s) 5 Month(s) 7 Day(s),Male,Officers,21-Jun-22,
+Business Partner,Legal,Legal,2686,1-Jan-22,Lawyer,Analyst,2467,Egypt - Head Office,0 Year(s) 3 Month(s) 0 Day(s),Female,Officers,31-Mar-22,
+Business Partner,Legal,Legal,2476,10-Dec-19,Litigation Manager,Vice President,2497,Egypt - Head Office,2 Year(s) 5 Month(s) 21 Day(s),Male,Officers,31-May-22,
+Business Partner,Marketing & Communications,Marketing & Communications,1488,13-Dec-09,Events & Activations Director,Director,1509,Egypt - Head Office,12 Year(s) 5 Month(s) 3 Day(s),Female,Officers,15-May-22,
+Business Line,Non-Bank Finance Institution,Non-Bank Finance Institution,1996,1-Aug-16,"Chief Executive Officer, EFG Finance Holding",Managing Director,260,Egypt - Head Office,6 Year(s) 0 Month(s) 0 Day(s),Male,Officers,31-Jul-22,Separation of legal entity
+Business Line,Private Equity,Private Equity,1950,1-Jan-16,Senior Executive Assistant,Professional,1661,Egypt - Head Office,6 Year(s) 3 Month(s) 0 Day(s),Male,Administrative Support,31-Mar-22,
+Business Line,Private Equity,Private Equity,1970,15-May-16,Vice President,Vice President,1661,Egypt - Head Office,6 Year(s) 3 Month(s) 1 Day(s),Male,Officers,15-Aug-22,
+Business Line,Private Equity,Private Equity,2650,1-Sep-21,Associate Director,Associate Director,1672,UAE - ADGM,1 Year(s) 0 Month(s) 14 Day(s),Male,Officers,14-Sep-22,
+Business Line,Research,Research,2366,5-Nov-18,Associate,Associate,997,Pakistan - Karachi,3 Year(s) 1 Month(s) 29 Day(s),Male,Officers,3-Jan-22,
+Business Line,Research,Research,2537,1-Oct-20,Analyst,Analyst,1192,Egypt - Head Office,1 Year(s) 10 Month(s) 0 Day(s),Male,Officers,31-Jul-22,
+Business Line,Research,Research,2073,15-Jun-17,Vice President,Vice President,2049,Kenya - Nairobi,4 Year(s) 10 Month(s) 11 Day(s),Male,Officers,25-Apr-22,
+Business Line,Research,Research,2462,13-Mar-18,Associate,Associate,2049,Nigeria - Lagos,4 Year(s) 5 Month(s) 20 Day(s),Female,Officers,2-Sep-22,
+Business Line,Research,Research,2463,17-Jun-19,Associate,Associate,2049,Nigeria - Lagos,3 Year(s) 2 Month(s) 20 Day(s),Female,Officers,6-Sep-22,
+Business Partner,Risk Management,Risk Management,2074,8-Jun-17,Chief Risk Officer,Director,2030,Egypt - Head Office,4 Year(s) 11 Month(s) 23 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2305,11-Nov-19,Risk Strategy Senior Analyst,Associate,2074,Egypt - Head Office,2 Year(s) 6 Month(s) 20 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2535,1-Oct-20,Credit Senior Analyst,Associate,2074,Egypt - Head Office,1 Year(s) 8 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2441,7-Aug-19,Credit Team Lead,Associate VP,2074,Egypt - Head Office,2 Year(s) 9 Month(s) 24 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2351,1-Oct-18,Fraud Manager,Vice President,2074,Egypt - Head Office,3 Year(s) 8 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2500,1-Jan-20,MIS Manager,Vice President,2074,Egypt - Head Office,2 Year(s) 5 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2624,1-Jul-21,Collection & Recovery Manager,Vice President,2074,Egypt - Head Office,0 Year(s) 11 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2643,15-Sep-21,Credit Analyst,Analyst,2305,Egypt - Head Office,0 Year(s) 8 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2681,15-Dec-21,Credit Senior Analyst,Analyst,2305,Egypt - Head Office,0 Year(s) 5 Month(s) 16 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2778,17-May-22,Credit Analyst,Analyst,2305,Egypt - Head Office,0 Year(s) 0 Month(s) 14 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,Risk Management,2586,1-May-21,MIS Analyst,Analyst,2500,Egypt - Head Office,1 Year(s) 1 Month(s) 0 Day(s),Male,Officers,31-May-22,Separation of legal entity
+Business Partner,Risk Management,"Risk Management, Credit & Risk",2629,1-Aug-21,Credit & Risk Senior Analyst,Analyst,1866,Egypt - Head Office,1 Year(s) 2 Month(s) 0 Day(s),Male,Officers,30-Sep-22,
+Business Partner,Risk Management,"Risk Management, Credit & Risk",2491,2-Jan-20,Credit & Risk Senior Analyst,Analyst,1949,Egypt - Head Office,2 Year(s) 2 Month(s) 9 Day(s),Male,Officers,10-Mar-22,
